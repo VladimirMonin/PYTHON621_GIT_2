@@ -1,3 +1,3 @@
 # Пчел!
 
-![image]("./images/bee.png") 
+![image]("./images/bee.png")
